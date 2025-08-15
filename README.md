@@ -8,7 +8,7 @@ I started my programming journey with **C language**, learning the fundamentals 
 
 - 🌱 Currently learning and building projects with **MERN stack**.  
 - 💼 Creating full-stack web applications with real-world use cases.  
-- 📫 How to reach me: [uttam.dev.sharma@gmail.com](mailto:uttam.dev.sharma@gmail.com) or [LinkedIn](https://www.linkedin.com/in/uttam-kumar-dev-sharma/).  
+- 📫 How to reach me: [uttamrohit4545@gmail.com](mailto:uttamrohit4545@gmail.com) or [LinkedIn](https://www.linkedin.com/in/uttamkds/).  
 - ❓ Ask me about **MongoDB, Express.js, React.js, Node.js**, and JavaScript.  
 - 💡 Fun Fact: I enjoy both coding and debugging equally.  
 - 🏆 Goal: Become a professional MERN stack developer and work on impactful projects.  
