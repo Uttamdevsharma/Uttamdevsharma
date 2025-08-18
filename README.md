@@ -13,7 +13,7 @@ I started my programming journey with **C language**, learning the fundamentals 
 - 💡 Fun Fact: I enjoy both coding and debugging equally.  
 - 🏆 Goal: Become a professional MERN stack developer and work on impactful projects.
 
- # ⚡ Tech Stack
+ # ⚡Tech Stack
 
 | Categories | Technologies |
 |------------|----------------------------------------------------------------------------------------------------------------|
