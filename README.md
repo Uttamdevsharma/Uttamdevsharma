@@ -22,8 +22,8 @@ I started my programming journey with **C language**, learning the fundamentals 
 | 🗄️ Databases | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-a03333?style=flat-square&logo=mongoose&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-ffcb2b?style=flat-square&logo=firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | 🛠️ Tools | ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Uttamdevsharma&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Uttamdevsharma" align="center" height=201/>
+<!-- Top Languages- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Uttamdevsharma&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Uttamdevsharma" align="center" height=201/> -->
+
 
 <!-- GitHub Streak Stats -->
 <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Uttamdevsharma&theme=tokyonight" alt="Uttamdevsharma" align="center" width=400/></a>
