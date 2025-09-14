@@ -2,7 +2,7 @@
 
 Hi, I'm **Uttam Kumar Dev Sharma**, a passionate **MERN stack developer** in the making, currently studying **Computer Science and Engineering (CSE)** at **Green University of Bangladesh**.  
 
-I’m deeply focused on building modern web applications using **MongoDB, Express.js, React.js, and Node.js**. My main goal is to master the MERN stack and create high-performance, scalable applications that solve real-world problems.  
+I’m deeply focused on building modern web applications using **MongoDB, Express.js, React.js, and Node.js**. My main goal is to master the MERN stack and create high-performance, scalable applications that solve real-world problem.  
 
 I started my programming journey with **C language**, learning the fundamentals of programming and problem-solving. Later, I shifted my focus entirely to **full-stack JavaScript development** with the MERN stack. Now, I’m actively working on personal and academic projects to sharpen my skills and prepare for professional opportunities in top tech companies.  
 
