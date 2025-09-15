@@ -36,15 +36,7 @@ I started my programming journey with **C language**, learning the fundamentals 
   />
 </a>
 
-<!-- GitHub General Stats -->
-<a href="#">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Uttamdevsharma&show_icons=true&locale=en&theme=tokyonight" 
-    alt="Uttamdevsharma" 
-    align="center" 
-    height="160" 
-  />
-</a>
+
 
 
 
