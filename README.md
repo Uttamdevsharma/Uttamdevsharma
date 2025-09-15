@@ -26,7 +26,15 @@ I started my programming journey with **C language**, learning the fundamentals 
 
 
 <!-- GitHub Streak Stats -->
-<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Uttamdevsharma&theme=tokyonight" alt="Uttamdevsharma" align="center" width=400/></a>
+<a href="#">
+  <img 
+    src="https://github-readme-streak-stats.vercel.app/?user=uttamdevsharma&theme=tokyonight" 
+    alt="Uttamdevsharma" 
+    align="center" 
+    width="400"
+/>
+</a>
+
 
 <!-- GitHub General Stats -->
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Uttamdevsharma&show_icons=true&locale=en&theme=tokyonight" alt="Uttamdevsharma" align="center" height=160 /></a>
