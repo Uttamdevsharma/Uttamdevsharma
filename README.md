@@ -23,6 +23,7 @@ I started my programming journey with **C language**, learning the fundamentals 
 | 🛠️ Tools | ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 <!-- Top Languages-  -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Uttamdevsharma&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Uttamdevsharma" align="center" height=201/>
 
 
 <!-- GitHub Streak Stats -->
