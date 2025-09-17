@@ -24,7 +24,7 @@ I started my programming journey with **C language**, learning the fundamentals 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Uttamdevsharma&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Uttamdevsharma" align="center" height=201/>
 
 
-<!-- GitHub Streak Stats -->
+
 <!-- GitHub Streak Stats -->
 <a href="#">
   <img 
