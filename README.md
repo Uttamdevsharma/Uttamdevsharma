@@ -29,7 +29,7 @@ My goal is to master the MERN stack and create scalable applications that solve 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Uttamdevsharma&show_icons=true&theme=tokyonight" alt="stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uttamdevsharma&theme=tokyonight" alt="streak" height="150"/>
+ <img src="https://streak-stats.demolab.com/?user=Uttamdevsharma&theme=tokyonight" alt="streak" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uttamdevsharma&layout=compact&theme=tokyonight" alt="languages" height="150"/>
 </p>
 
