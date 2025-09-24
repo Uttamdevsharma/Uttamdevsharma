@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Uttam Kumar Dev Sharma</h1>
-<h3 align="center">MERN Stack Developer in the making | CSE Student at Green University of Bangladesh</h3>
+<h3 align="center">Full-Stack Developer | MERN Stack Developer</h3>
 
 ---
 
