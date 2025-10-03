@@ -25,7 +25,7 @@ My goal is to master the MERN stack and create scalable application that solve r
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stat
 
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Uttamdevsharma&show_icons=true&theme=tokyonight" height="150"/>
