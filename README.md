@@ -10,7 +10,7 @@ My goal is to master the MERN stack and create scalable application that solve r
 
 - 🌱 Currently learning and building projects with **MERN stack**  
 - 💼 Developing full-stack applications with real-world use cases  
-- 📫 Reach me: **uttamrohit4545@gmail.com**
+- 📫 Reach me: **uttamrohit4545@gmail.com*
 
 ---
 
