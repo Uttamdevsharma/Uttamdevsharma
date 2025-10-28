@@ -14,7 +14,7 @@ My goal is to master the MERN stack and create scalable application that solve r
 
 ---
 
-### ⚡ Tech Stac
+### ⚡ Tech Stack
 
 | Category | Technologies |
 |----------|----------------------------------------------------------------------------------------------------------------|
