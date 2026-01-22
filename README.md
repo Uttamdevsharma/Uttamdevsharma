@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Uttam Kumar Dev Sharma</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack Developer</h3>
+<h3 align="center">Backend Developer | Full Stack Developer</h3>
 
 ---
 
 ### 📝 About Me
 
-Hi, I'm **Uttam Kumar Dev Sharma**, a passionate **MERN stack developer** in the making.  
+Hi, I'm **Uttam Kumar Dev Sharma**, a passionate **Backend developer** in the making.  
 I’m focused on building modern web applications using **MongoDB, Express.js, React.js, and Node.js**.  
 My goal is to master the MERN stack and create scalable application that solve real-world problems.
 
