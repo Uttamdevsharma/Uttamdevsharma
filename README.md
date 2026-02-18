@@ -3,7 +3,7 @@
 
 ---
 
-### 📝 About Me
+### 📝 About M
 
 Hi, I'm **Uttam Kumar Dev Sharma**, a passionate **Backend Developer and Full Stack Developer** who loves building scalable, secure, and high-performance web applications.  
 I mainly work with **TypeScript, Node.js, PostgreSQL, Prisma, MongoDB, Next.js, and React.js** to create production-ready systems.
