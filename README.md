@@ -37,5 +37,5 @@ My core strength lies in backend development — designing APIs, managing databa
 
 ---
 
-### 👀 Profile Views
+### 👀 Profile View
 ![Profile Views](https://komarev.com/ghpvc/?username=Uttamdevsharma&style=flat-square&color=blue)
