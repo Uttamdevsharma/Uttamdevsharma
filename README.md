@@ -17,7 +17,7 @@ My core strength lies in backend development — designing APIs, managing databa
 
 ---
 
-### ⚡ Tech Stack
+### ⚡ Tec Stack
 
 | Category | Technologies |
 |----------|----------------------------------------------------------------------------------------------------------------|
