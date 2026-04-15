@@ -7,7 +7,7 @@
 
 ---
 
-## 🧑‍💻 About M
+## 🧑‍💻 About Me
 
 Hi, I'm **Uttam Kumar Dev Sharma**, a passionate **Backend-focused Full Stack Developer** who builds scalable, secure, and production-ready web applications.
 
