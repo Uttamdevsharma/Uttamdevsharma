@@ -74,7 +74,7 @@ Hi, I'm **Uttam Kumar Dev Sharma**, a passionate **Backend-focused Full Stack De
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connects
 
 - 📧 Email: **uttamrohit4545@gmail.com**
 - 💼 Open for internships & junior developer roles
