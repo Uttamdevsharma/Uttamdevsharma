@@ -62,7 +62,6 @@ Hi, I'm **Uttam Kumar Dev Sharma**, a passionate **Backend-focused Full Stack De
 - RESTful API design & performance optimization
 - Database design (SQL + NoSQL)
 - Authentication & security best practices
-- Full-stack system design
 
 ---
 
