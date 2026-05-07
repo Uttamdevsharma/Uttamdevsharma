@@ -34,7 +34,7 @@ Hi, I'm **Uttam Kumar Dev Sharma**, a passionate **Backend-focused Full Stack De
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-f73f51?style=flat-square&logo=json-web-tokens&logoColor=white)
 
-### 🗄️ Databases & ORM
+### 🗄️ Databases & OR
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
