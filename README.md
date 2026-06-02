@@ -47,7 +47,7 @@ Hi, I'm **Uttam Kumar Dev Sharma**, a passionate **Backend-focused Full Stack De
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stat
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uttamdevsharma&theme=tokyonight" height="160"/>
