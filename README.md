@@ -21,7 +21,7 @@ Hi, I'm **Uttam Kumar Dev Sharma**, a passionate **Backend-focused Full Stack De
 
 ---
 
-## ⚡ Tech Stac
+## ⚡ Tech Stack
 
 ### 🚀 Frontend
 ![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
