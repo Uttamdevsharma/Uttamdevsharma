@@ -65,7 +65,7 @@ Hi, I'm **Uttam Kumar Dev Sharma**, a passionate **Backend-focused Full Stack De
 
 ---
 
-## 🚀 Goal
+## 🚀 Goals
 
 - Become a **Top Backend Engineer**
 - Build **real-world SaaS products**
