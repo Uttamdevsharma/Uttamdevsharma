@@ -56,7 +56,7 @@ Hi, I'm **Uttam Kumar Dev Sharma**, a passionate **Backend-focused Full Stack De
 
 ---
 
-## 🧠 What I Focus O
+## 🧠 What I Focus On
 
 - Clean & scalable backend architecture
 - RESTful API design & performance optimization
